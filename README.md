@@ -1,4 +1,4 @@
-![Resources/assets/Images/cloudiness.png](Images/cloudiness.png)
+![Image Name](Resources/assets/Images/cloudiness.png)
 
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
